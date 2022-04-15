@@ -1,1 +1,0 @@
-This is the bill issued for (name) . You have to pay Rs (amount) to the cashier (cashier) and collect the recipt.
